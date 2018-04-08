@@ -1,0 +1,19 @@
+{
+  "name": "com.lcy.test",
+  "version": "0.0.1",
+  "description": "1",
+  "cordova": {
+    "id": "com.lcy.test",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "1",
+  "license": "apache"
+}
